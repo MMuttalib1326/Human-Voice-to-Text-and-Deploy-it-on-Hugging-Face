@@ -33,10 +33,12 @@ Evaluate the performance of the trained model using appropriate metrics such as 
 Fine-tune the model by iteratively adjusting its architecture, hyperparameters, or training techniques to improve its accuracy and reduce errors.
 
 Step 5: Convert Model to Hugging Face Format
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Once you have a well-performing speech recognition model, convert it to a format compatible with the Hugging Face platform. Hugging Face supports various frameworks like PyTorch and TensorFlow.
 
 Step 6: Deploy on Hugging Face Platform
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Create an account on the Hugging Face platform and set up your workspace.
 Upload the converted model to your Hugging Face workspace.
@@ -44,6 +46,7 @@ Configure the necessary deployment settings, such as selecting the appropriate r
 Deploy the Human-Voice-to-Text system on the Hugging Face platform.
 
 Step 7: Test and Validate the Deployment
+![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Validate the deployment by feeding the system with new voice recordings and verifying the accuracy of the generated transcriptions.
 Fine-tune and refine the system further if necessary based on the testing results.
