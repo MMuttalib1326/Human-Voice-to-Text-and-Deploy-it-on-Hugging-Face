@@ -18,7 +18,7 @@ Determine the specific features and functionality you want to incorporate into t
 Step 2: Gather and Preprocess Data
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-Acquire a suitable dataset that consists of human voice recordings along with their corresponding  transcriptions.
+Acquire a suitable dataset that consists of human voice recordings along with their corresponding transcriptions.
 Clean and preprocess the dataset to remove any noise or inconsistencies. 
 This may involve removing background noise, normalizing audio levels, and converting audio files to a suitable format for processing.
 
