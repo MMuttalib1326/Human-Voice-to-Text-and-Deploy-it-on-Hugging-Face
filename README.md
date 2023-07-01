@@ -7,7 +7,7 @@ Deployment 👉🏻 [HuggingFace🤖](https://huggingface.co/spaces/muttalib1326
 
 ![image](https://huggingface.co/blog/assets/speecht5/thumbnail.png)
 
-Here is a step-by-step summary of developing a Human-Voice-to-Text system using speech recognition technology  and deploying it on the Hugging Face platform:
+Here is a step-by-step summary of developing a Human-Voice-to-Text system using speech recognition technology and deploying it on the Hugging Face platform:
 
 Step 1: Understand the Requirements
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
