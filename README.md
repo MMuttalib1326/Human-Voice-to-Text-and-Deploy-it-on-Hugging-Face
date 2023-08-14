@@ -60,6 +60,7 @@ Validate the deployment by feeding the system with new voice recordings and veri
 Fine-tune and refine the system further if necessary based on the testing results.
 
 
+
 By following these steps, you can develop a Human-Voice-to-Text system using speech recognition technology and deploy it on the Hugging Face platform. Remember to document your work and consider any legal and ethical considerations related to data collection, privacy, and usage of the system.
 
 ![image](https://github.com/MMuttalib1326/Human-Voice-to-Text-and-Deploy-it-on-Hugging-Face/blob/main/Screenshot%20(356).png)
